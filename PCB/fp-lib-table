@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "nice-nano-kicad")(type "KiCad")(uri "${KIPRJMOD}/nice-nano-kicad")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/ElectronicCats-KiCad-Libraries/Footprints")(options "")(descr ""))
+  (lib (name "Switches")(type "KiCad")(uri "${KIPRJMOD}/ElectronicCats-KiCad-Libraries/Footprints/Switches.pretty")(options "")(descr ""))
+  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard/footprints/SofleKeyboard-footprint.pretty")(options "")(descr ""))
+  (lib (name "KLOTZ")(type "KiCad")(uri "${KIPRJMOD}/KLOTZ.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "keyboard_reversible")(type "KiCad")(uri "${KIPRJMOD}/keyboard_reversible.pretty-main")(options "")(descr ""))
+)

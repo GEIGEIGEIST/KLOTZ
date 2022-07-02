@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "nice_nano")(type "Legacy")(uri "${KIPRJMOD}/nice-nano-kicad/nice_nano.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "electroniccats")(type "Legacy")(uri "${KIPRJMOD}/ElectronicCats-KiCad-Libraries/Libraries/electroniccats.lib")(options "")(descr ""))
+  (lib (name "device_jumper_nc_small")(type "KiCad")(uri "${KIPRJMOD}/KLOTZ.pretty/device_jumper_nc_small.kicad_sym")(options "")(descr ""))
+  (lib (name "device_jumper_no_small")(type "KiCad")(uri "${KIPRJMOD}/KLOTZ.pretty/device_jumper_no_small.kicad_sym")(options "")(descr ""))
+  (lib (name "soflekeyboard-rescue_mj-4pp-9-lily58-cache-lily58_pro-rescue")(type "KiCad")(uri "${KIPRJMOD}/KLOTZ.pretty/soflekeyboard-rescue_mj-4pp-9-lily58-cache-lily58_pro-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "KLOTZ")(type "KiCad")(uri "${KIPRJMOD}/KLOTZ.pretty/KLOTZ.kicad_sym")(options "")(descr ""))
+)
