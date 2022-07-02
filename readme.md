@@ -19,6 +19,16 @@ KLOTZ is 34 keys column-staggered split keyboard running [ZMK](https://zmk.dev/)
 [Here](/PCB/) you can find the KiCad files and Gerbers for the KLOTZ.
 
 
+## SWITCHPLATE
+
+And [here](/switchplate/) is the switchplate, which you should use, if you plan to use hotswap sockets.
+
+
+## KNOB
+
+You can use pretty much any knob, which works with EC12 encoder, but [here](/knob/) you can find one, I designed for the KLOTZ.
+
+
 ## BUILD GUIDE
 
 The build guide for the KLOTZ can be found [here](/docs/buildguide.md).
