@@ -1,7 +1,7 @@
 # KLOTZ PCB
 
 ## MANUFACTURING
-If you want to get the PCB made you need to upload the [KLOTZ_0-2_gerbers.zip](/PCB/KLOTZ_0-2_gerbers.zip) file to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
+If you want to get the PCB made you need to upload the **KLOTZ_0-2_gerbers.zip** file to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
 
 - upload the ZIP
 - sometimes the Gerber preview from JLCPCB can't display the PCB, even when the files are fine. In this case use this dimensions: 120.5 mm* 85.5 mm
@@ -22,8 +22,8 @@ If you want to get the PCB made you need to upload the [KLOTZ_0-2_gerbers.zip](/
 If you only want to check the traces or see what is connected to which pin you can take a look at these graphics.
 
 
-![KLOTZ pinout](/docs/images/KLORpinout.png)
-![KLOTZ traces](/docs/images/KLORtraces.png)
+![KLOTZ pinout](/docs/images/KLOTZpinout.png)
+![KLOTZ traces](/docs/images/KLOTZtraces.png)
 
 
 
