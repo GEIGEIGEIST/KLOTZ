@@ -476,7 +476,7 @@
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
       (tstamp db21ed32-d121-4d26-b67b-9c188683f431)
     )
-    (fp_text value "LED" (at 0 4.5) (layer "B.SilkS")
+    (fp_text value "LED" (at 0 4.5) (layer "B.SilkS") hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)) (justify mirror))
       (tstamp 0d2181ba-b6fe-4093-a85f-3e2b905d00bb)
     )
