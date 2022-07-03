@@ -6,7 +6,7 @@
 
 # KLOTZ SPLIT KEYBOARD
 
-KLOTZ is 34 keys column-staggered split keyboard running [ZMK](https://zmk.dev/). It supports a low profile encoder and three status LEDs on every side.
+KLOTZ is 34 keys column-staggered choc split keyboard running [ZMK](https://zmk.dev/). It supports a low profile encoder, three status LEDs on every side and the SplitKB tenting puck.
 
 
 ## LAYOUT
