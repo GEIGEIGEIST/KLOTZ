@@ -22,8 +22,8 @@ If you want to get the PCB made you need to upload the **KLOTZ_0-2_gerbers.zip**
 If you only want to check the traces or see what is connected to which pin you can take a look at these graphics.
 
 
-![KLOTZ pinout](/docs/images/KLOTZpinout.png)
-![KLOTZ traces](/docs/images/KLOTZtraces.png)
+![KLOTZ pinout](/docs/images/KLOTZ_pinout.png)
+![KLOTZ traces](/docs/images/KLOTZ_traces.png)
 
 
 
