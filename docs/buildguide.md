@@ -109,12 +109,12 @@ The microcontroller needs to be mounted on the top, with the components facing d
 Feel free to use the included header pins, but it's highly recommended to use MillMax low profile sockets.\
 Place the sockets in the marked spots on the bottom side of the PCB.
 You can keep them in place by using masking tape.\
-Then you can flip the board to solder in the sockets from the botto.\
+Then you can flip the board to solder in the sockets from the bottom.
 
 ![MCU sockets](/docs/images/buildguide/MCU_sockets.jpg)
 
 
-Insert the pins into the sockets.\
+Insert the pins into the sockets.
 
 > **Note**
 > Use tweezers to insert them. Don't apply too much force, you will feel them snap in. After that, you can carefully apply some pressure, using a flat object to make sure they're fully seated. 
