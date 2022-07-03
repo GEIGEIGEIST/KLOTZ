@@ -13,7 +13,7 @@ If you want to get the PCB made you need to upload the [KLOTZ_0-2_gerbers.zip](/
 - Surface Finish HASL(with lead) if you want the easiest soldering experience or LeadFree HASL.
 - Remove Order Number Yes
 
-![KLOTZ PCB](/docs/images/KLOTZ_pcb.svg)
+![KLOTZ PCB](/docs/images/KLOTZ_pcb.png)
 
 
 
