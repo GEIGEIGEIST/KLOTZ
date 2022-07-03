@@ -7,8 +7,8 @@
 | Part name         | Count | Remarks | 
 | :---------------- | :---: | :------ |
 | KLOTZ PCB         | 02 | You can find the files for it [here](/PCB/) |
-| KLOTZ switchplate |
-| Nice!Nano         | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
+| KLOTZ switchplate | 02 | Which you can find [here](/switchplate/) |
+| nice!nano         | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
 | Choc key switch   | 34 | Kailh Choc low profile keyswitches |
 | diodes 1N4148W    | 34 | These are surface mount diodes in SOD123 package. |
 | 1u Choc keycaps   | 34 | You can use the black or white keycaps from Kailh, but I recommend MBK keycaps |
@@ -32,7 +32,7 @@
 | resistors              | 06 | R1206 220ohm SMD resistors for the LEDs |
 | screws  				 | 10 | 6mm M2 screws |
 | bolts                  | 10 | M2 bolts |
-| o-rings                | 10 | as optional standoffs |
+| o-rings                | 10 | as optional standoffs. OD4*1.5-150NB |
 | [tenting puck](https://splitkb.com/products/tenting-puck)| 02 | SplitKB Tenting Puck |
 
 
