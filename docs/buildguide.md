@@ -41,7 +41,7 @@
 
 Here is an overview of where and on which side each component needs to be soldered (click on the image to see a larger version).
 
-![KLOR solder guide](/docs/images/solderguide_acrylic_BLE.png)
+![KLOTZ solder guide](/docs/images/KLOTZ_solderguide.png)
 
 To see what component needs to sit where you can take a look at the [interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/klor_rev1-3_ibom.html).
 
@@ -71,7 +71,7 @@ Now you can solder the second pad.
 
 ***
 
-# SWITCH SOCKETS
+## SWITCH SOCKETS
 
 Here you can apply the same technique as used for the diodes: Apply some solder on one of the pads first.\
 Then place the switch socket in the silk screen markings and reheat the solder. Apply some pressure with a pair of tweezers to make sure the socket is fully seated.\
