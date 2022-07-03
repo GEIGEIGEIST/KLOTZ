@@ -43,7 +43,7 @@ Here is an overview of where and on which side each component needs to be solder
 
 ![KLOTZ solder guide](/docs/images/KLOTZ_solderguide.png)
 
-To see what component needs to sit where you can take a look at the [interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/klotz_rev0-2_ibom.html).
+To see what component needs to sit where you can take a look at the [interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/GEIGEIGEIST/KLOTZ/blob/main/docs/klotz_rev0-2_ibom.html).
 
 > **Warning**
 > This interactive HTML BOM does show where each component is located, but please still refer to the solder guide above to see if a component needs to go on the front or back of the PCB.
