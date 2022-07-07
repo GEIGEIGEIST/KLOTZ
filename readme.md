@@ -42,3 +42,6 @@ The build guide for the KLOTZ can be found [here](/docs/buildguide.md).
 ## FIRMWARE
 
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klotz) for the KLOTZ.
+
+
+If you build a KLOTZ I would be pretty happy to see some pictures.
