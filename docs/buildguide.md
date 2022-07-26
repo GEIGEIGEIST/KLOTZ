@@ -122,11 +122,14 @@ Insert the pins into the sockets.
 Now place your microcontroller on the pins (components facing the PCB) and solder it to them.\
 You can use flush cutters to trim the header pins.
 
-![MCU solder](/docs/images/buildguide/MCU_solder.jpg)
-
-
 > **Warning**
 > When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise sharp metal pins flying around might hurt you.
+
+![MCU solder](/docs/images/buildguide/MCU_solder.jpg)
+
+> **Warning**
+> On this image you can see the charge boost jumper of the nice!nano bridged. This increasesd the max charge rate from 100mA to 500mA. Only do this if your battery is at least 500mAh, to avoid explosions. 
+
 
 ***
 
