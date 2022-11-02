@@ -49,6 +49,7 @@ The build guide for the KLOTZ can be found [here](/docs/buildguide.md).
 Since a lot of people use the Amazon basics harddrive case (ZH1510147) for the KLOTZ I thought I should put an (affiliate) link in here. 
 
 [US Amazon link](https://www.amazon.com/gp/product/B00F5CKWBA?ie=UTF8&psc=1&linkCode=ll1&tag=ekelhaigitspo-21&linkId=67f8dc497a4f2d7a740d78649fa4cf6d&language=us_EN&ref_=as_li_ss_tl)
+
 [German Amazon link](https://www.amazon.de/gp/product/B00F5CKWBA?ie=UTF8&psc=1&linkCode=ll1&tag=ekelhaigitspo-21&linkId=67f8dc497a4f2d7a740d78649fa4cf6d&language=de_DE&ref_=as_li_ss_tl)
 
 
