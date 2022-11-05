@@ -10,7 +10,7 @@
 | KLOTZ switchplate | 02 | Which you can find [here](/switchplate/) |
 | nice!nano         | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
 | Choc key switch   | 34 | Kailh Choc low profile keyswitches |
-| diodes 1N4148W    | 34 | These are surface mount diodes in SOD123 package. |
+| diodes 1N4148W    | 34 | These are surface mount diodes in SOD123 package |
 | 1u Choc keycaps   | 34 | You can use the black or white keycaps from Kailh, but I recommend MBK keycaps |
 | reset button      | 02 | Through-hole, 2 pin tactile buttons |
 | power switch      | 02 | MSK12C02 |
