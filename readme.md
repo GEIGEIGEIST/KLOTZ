@@ -53,4 +53,4 @@ Since a lot of people use the Amazon basics harddrive case (ZH1510147) for the K
 [German Amazon link](https://www.amazon.de/gp/product/B00F5CKWBA?ie=UTF8&psc=1&linkCode=ll1&tag=ekelhaigitspo-21&linkId=67f8dc497a4f2d7a740d78649fa4cf6d&language=de_DE&ref_=as_li_ss_tl)
 
 
- If you build a KLOTZ I would be pretty happy to see some pictures.
+ If you build a KLOTZ I would be pretty happy to see some pictures. And if you want to leave me a tip you can do this [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
