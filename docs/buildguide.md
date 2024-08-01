@@ -9,13 +9,13 @@
 | KLOTZ PCB         | 02 | You can find the files for it [here](/PCB/) |
 | KLOTZ switchplate | 02 | Which you can find [here](/switchplate/) |
 | nice!nano         | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
-| Choc key switch   | 34 | Kailh Choc low profile keyswitches |
+| Choc key switch   | 34 | Kailh Choc low profile key switches |
 | diodes 1N4148W    | 34 | These are surface mount diodes in SOD123 package |
 | 1u Choc keycaps   | 34 | You can use the black or white keycaps from Kailh, but I recommend MBK keycaps |
 | reset button      | 02 | Through-hole, 2 pin tactile buttons |
 | power switch      | 02 | MSK12C02 |
 | EC12 encoder      | 02 | Technically you could also use EC11 encoder, but flat EC12 like the EC12E2440301 will work best |
-| encoder knob      | 02 | Nearly every encoder knob, which works with the EC12 should work. But if you have acces to a printer you can use [this one](/knob/) |
+| encoder knob      | 02 | Nearly every encoder knob, which works with the EC12 should work. But if you have access to a printer you can use [this one](/knob/) |
 | USB cable         | 01 | For connecting the keyboard with your PC |
 | Lipo battery      | 02 | You can use a variety of Lipo batteries, but the cutout in the switchplate is meant to be used with a battery which name ends with 2030, like the 902030.
 
@@ -25,7 +25,7 @@
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
 | MCU sockets            | 04 | For socketing your MCU. Highly recommended |
-| MCU pins               | 48 | In combinatin with the MCU sockets |
+| MCU pins               | 48 | In combination with the MCU sockets |
 | JST Jack               | 02 | JST PH |
 | switch socket          | 34 | Switch sockets for Kailh choc switches |
 | LEDs                   | 06 | 3mm through hole LEDs |
@@ -52,7 +52,7 @@ To see what component needs to sit where you can take a look at the [interactive
 
 ## DIODES
 
-The diodes needs to be soldered on the bottomm of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+The diodes needs to be soldered on the bottom of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
 
 <p align="center">
 <picture>
@@ -93,7 +93,7 @@ Apply a tiny bit of solder on one of the bigger, outer pads on the bottom of the
 
 ## RESET SWITCHES
 
-Put the legs of the reset switch through the holen on the top of the PCB. 
+Put the legs of the reset switch through the hole on the top of the PCB.
 You can secure it with some tape, since you need to solder it from below.
 
 ![reset switch](/docs/images/buildguide/reset.jpg)
@@ -145,7 +145,7 @@ This way you can make sure they won't get in the way later.
 
 ## RESITORS (optional)
 
-Than you should remove the plate and solder the tiny resistors next to the LEDs. As you can see here I still haven't a good technique at hand for doing this.
+Then you should remove the plate and solder the tiny resistors next to the LEDs. As you can see here I still haven't a good technique at hand for doing this.
 
 ![LEDs](/docs/images/buildguide/resistors.jpg)
 
@@ -165,12 +165,18 @@ Mount the rotary encoder on the top side of the PCB. It should click into place 
 
 ## JST (optional)
 
-You don't need to solder a JST jack, but it makes it easier to connect and deconnect your batteries, if they already got a JST plug.
+You don't need to solder a JST jack, but it makes it easier to connect and disconnect your batteries, if they already got a JST plug.
 
 ![JST jack](/docs/images/buildguide/JST_socket.jpg)
 
 
 If you plan to use a JST jack you also need to bridge the jumpers on the top, next to the JST jack.
+
+Keep in mind, that the polarity of the JST connectors on the KLOTZ (which is from left to right: negative, positive)
+is inverted to the standard JST jack configuration (which is from left to right: positive, negative).
+
+Should you intend to keep the default JST jack configuration, bridge the jumpers on the respective bottom of each plate
+instead of the ones on the top.
 
 ![JST bridge](/docs/images/buildguide/JST_bridge.jpg)
 
@@ -185,7 +191,7 @@ In this case you don't need to bridge the jumpers.
 ![JST bridge](/docs/images/buildguide/battery_pads.jpg)
 
 
-You should use double-sided tape (or even double sided foam tape) to attach the battery to the PCB. You can use the switchplae to align it.
+You should use double-sided tape (or even double sided foam tape) to attach the battery to the PCB. You can use the switchplate to align it.
 
 ![battery](/docs/images/buildguide/battery.jpg)
 
@@ -207,16 +213,16 @@ This is how your finished PCB probably will look like. You can use an old toothb
 
 If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting everyting into the case.\
 [Here](https://github.com/GEIGEIGEIST/zmk-config-klotz) you can find the ZMK firmware for the KLOTZ.\
-You need to create an own fork of it. In this fork you can edit the keymap to trigger an Github action, which will create your firmware. 
+You need to create an own fork of it. In this fork you can edit the key map to trigger an Github action, which will create your firmware.
 
 
 ***
 
 ## SWITCHPLATE
 
-Since there isn't much space beween switchplate and PCB on choc builds you don't really need screws, but if you use them I recommend O-rings, which are meant to act as spacer between PCB and switchplate. Thick and small ones seem to work best in this case.
+Since there isn't much space between switchplate and PCB on choc builds you don't really need screws, but if you use them I recommend O-rings, which are meant to act as spacer between PCB and switchplate. Thick and small ones seem to work best in this case.
 
-![O-rings](/docs/images/buildguide/o-rings.jpg) 
+![O-rings](/docs/images/buildguide/o-rings.jpg)
 
 
 Insert the screws into the holes of the switchplate and use tweezers to secures them with the O-rings.
